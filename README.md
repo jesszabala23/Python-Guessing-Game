@@ -1,5 +1,6 @@
 # The Guessing Game 
-![Guessing Game Preview](https://media.giphy.com/media/XyD6EVrfA3RxWrv0Sg/giphy.gif)
+![Guessing Game Preview](https://media.giphy.com/media/XEhJsBCc34su9ZLJRT/giphy.gif)
+![Guessing Game Preview](https://media.giphy.com/media/fXb3CNYb0T23cl7vzC/giphy.gif)
 
 ## Game Description 
 #### The Guessing Game is an interactive game in created with `python` programming language 
